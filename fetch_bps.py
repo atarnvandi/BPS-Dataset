@@ -221,18 +221,29 @@ def run_fetch(
     counter = 0
 
     with BPSApiClient() as client:
+        # Load dynamic mapping jika ada
+        domain_vars_map = {}
+        map_path = Path("config/domain_vars.json")
+        if map_path.exists():
+            import json
+            with open(map_path, "r", encoding="utf-8") as f:
+                domain_vars_map = json.load(f)
+                
         for var_key, var_info in variables.items():
-            var_id = var_info["var_id"]
+            default_var_id = var_info["var_id"]
             var_name = var_info["name"]
 
             logger.info("")
-            logger.info(f"📊 Fetching variabel: {var_name} (var_id={var_id})")
+            logger.info(f"📊 Fetching variabel: {var_name}")
             logger.info("-" * 40)
 
             var_success = 0
             var_fail = 0
 
             for domain_code, domain_name in regions.items():
+                # Tentukan var_id (Dinamis dari map, atau fallback statis)
+                var_id = domain_vars_map.get(domain_code, {}).get(var_key, default_var_id)
+                
                 for yr_chunk in year_chunks:
                     counter += 1
                     yr_label = f"{yr_chunk[0]}-{yr_chunk[-1]}" if len(yr_chunk) > 1 else str(yr_chunk[0])
