@@ -79,17 +79,26 @@ def transform_raw_to_csv(output_csv: Path | str = "data/clean/bps_sulsel.csv"):
         logger.warning("Tidak ada data valid yang bisa ditransformasi.")
         return
         
-    # Urutkan berdasarkan wilayah, variabel, dan tahun
-    csv_rows.sort(key=lambda x: (x["domain_code"], x["variable"], str(x["year"])))
-    
-    # Tulis ke CSV
-    headers = ["domain_code", "domain_name", "year", "variable", "variable_name", "value"]
-    with open(output_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=headers)
-        writer.writeheader()
-        writer.writerows(csv_rows)
+    # Kelompokkan data berdasarkan variabel
+    from collections import defaultdict
+    grouped_rows = defaultdict(list)
+    for row in csv_rows:
+        grouped_rows[row["variable"]].append(row)
         
-    logger.info(f"✅ Transformasi selesai. {len(csv_rows)} baris data disimpan ke {output_path}")
+    headers = ["domain_code", "domain_name", "year", "variable", "variable_name", "value"]
+    
+    # Tulis ke file terpisah
+    for var_key, rows in grouped_rows.items():
+        # Urutkan per variabel berdasarkan wilayah dan tahun
+        rows.sort(key=lambda x: (x["domain_code"], str(x["year"])))
+        
+        file_path = output_path.parent / f"{var_key}.csv"
+        with open(file_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=headers)
+            writer.writeheader()
+            writer.writerows(rows)
+            
+        logger.info(f"✅ {len(rows)} baris disimpan ke {file_path}")
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
