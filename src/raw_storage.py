@@ -102,7 +102,25 @@ class RawJsonStorage:
         return self.base_dir / variable_key / domain
 
     def is_exists(self, domain: str, variable_key: str, var_id: int, year: int | str) -> bool:
-        """Cek apakah file raw JSON untuk domain & tahun ini sudah ada."""
+        """
+        Cek apakah file raw JSON untuk domain & tahun ini sudah ada DAN memiliki data.
+        Jika file ada tapi datanya kosong (belum tersedia di BPS saat itu),
+        return False agar script men-download ulang di jadwal berikutnya.
+        """
         filename = f"{domain}_{var_id}_{year}.json"
         filepath = self.get_output_dir(variable_key, domain) / filename
-        return filepath.exists()
+        
+        if not filepath.exists():
+            return False
+            
+        # Jika file ada, cek apakah isinya kosong
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                datacontent = data.get("raw_response", {}).get("datacontent", {})
+                if not datacontent:
+                    return False  # Datanya kosong, anggap tidak ada agar di-fetch ulang
+        except Exception:
+            return False
+            
+        return True

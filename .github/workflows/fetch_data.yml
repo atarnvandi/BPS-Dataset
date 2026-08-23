@@ -42,7 +42,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Tambahkan semua perubahan di folder data/ dan README.md
-          git add data/raw/ README.md
+          git add data/ README.md
           
           # Cek apakah ada perubahan (data baru)
           if git diff --staged --quiet; then

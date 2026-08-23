@@ -39,6 +39,7 @@ from config.settings import BPS_API_KEY
 from src.api_client import BPSApiClient
 from src.logger_setup import setup_logger
 from src.raw_storage import RawJsonStorage
+from src.transformer import transform_raw_to_csv
 
 
 @dataclass
@@ -372,6 +373,14 @@ def main():
     logger = setup_logger()
     if not args.dry_run:
         print_summary(stats, logger)
+        
+        # Eksekusi Transformasi CSV
+        try:
+            logger.info("🔄 Menjalankan transformasi data mentah ke CSV...")
+            transform_raw_to_csv()
+        except Exception as e:
+            logger.error(f"❌ Gagal melakukan transformasi: {e}")
+            
         try:
             update_readme_dashboard(stats)
             logger.info("✅ Dashboard README.md diupdate.")
