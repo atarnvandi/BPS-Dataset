@@ -1,0 +1,33 @@
+{
+  "fetch_metadata": {
+    "domain": "7305",
+    "variable_key": "tpt",
+    "var_id": 52,
+    "fetched_at": "2026-08-23T07:50:34.698851+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [],
+    "var": [],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": [],
+    "vervar": [],
+    "tahun": [
+      {
+        "val": 121,
+        "label": "2021"
+      }
+    ],
+    "turtahun": [],
+    "datacontent": [],
+    "related": []
+  }
+}

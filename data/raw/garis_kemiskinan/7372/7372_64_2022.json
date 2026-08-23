@@ -1,0 +1,90 @@
+{
+  "fetch_metadata": {
+    "domain": "7372",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 64,
+    "fetched_at": "2026-08-23T07:56:21.212340+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-03-03 03:42:52",
+    "subject": [
+      {
+        "val": 531,
+        "label": "Neraca Ekonomi"
+      }
+    ],
+    "var": [
+      {
+        "val": 64,
+        "label": "Distribusi PDRB Atas Dasar Harga Berlaku",
+        "unit": "Persen",
+        "subj": "Produk Domestik Regional Bruto (Pengeluaran)",
+        "def": "",
+        "decimal": 2,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "PDRB Pengeluaran (Seri 2010)",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Pengeluaran Konsumsi Rumahtangga"
+      },
+      {
+        "val": 2,
+        "label": "Pengeluaran Konsumsi LPNRT"
+      },
+      {
+        "val": 3,
+        "label": "Pengeluaran Konsumsi Pemerintah"
+      },
+      {
+        "val": 4,
+        "label": "Pembentukan Modal Tetap Domestik Bruto"
+      },
+      {
+        "val": 5,
+        "label": "Perubahan Inventori"
+      },
+      {
+        "val": 6,
+        "label": "Net Ekspor Barang dan Jasa"
+      },
+      {
+        "val": 7,
+        "label": "    PRODUK DOMESTIK REGIONAL BRUTO"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 122,
+        "label": "2022"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "16401220": 52.94,
+      "26401220": 0.61,
+      "36401220": 12.41,
+      "46401220": 39.66,
+      "56401220": 0.07,
+      "66401220": -5.68,
+      "76401220": 100
+    },
+    "related": []
+  }
+}

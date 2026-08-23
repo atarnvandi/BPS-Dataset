@@ -1,0 +1,86 @@
+{
+  "fetch_metadata": {
+    "domain": "7312",
+    "variable_key": "pdrb_total",
+    "var_id": 79,
+    "fetched_at": "2026-08-23T07:44:59.874111+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 519,
+        "label": "Kependudukan dan Migrasi"
+      }
+    ],
+    "var": [
+      {
+        "val": 79,
+        "label": "Laju Pertumbuhan Penduduk",
+        "unit": "Persen",
+        "subj": "Kependudukan",
+        "def": "",
+        "decimal": 2,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kecamatan",
+    "vervar": [
+      {
+        "val": 10,
+        "label": "Marioriwawo"
+      },
+      {
+        "val": 20,
+        "label": "Lalabata"
+      },
+      {
+        "val": 30,
+        "label": "Liliriaja"
+      },
+      {
+        "val": 31,
+        "label": "Ganra"
+      },
+      {
+        "val": 32,
+        "label": "Citta"
+      },
+      {
+        "val": 40,
+        "label": "Lilirilau"
+      },
+      {
+        "val": 50,
+        "label": "Donri-Donri"
+      },
+      {
+        "val": 60,
+        "label": "Marioriawa"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 123,
+        "label": "2023"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": [],
+    "related": []
+  }
+}

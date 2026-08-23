@@ -1,0 +1,115 @@
+{
+  "fetch_metadata": {
+    "domain": "7301",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 64,
+    "fetched_at": "2026-08-23T07:53:15.620452+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2023-06-12 09:29:21",
+    "subject": [
+      {
+        "val": 557,
+        "label": "Pertanian, Kehutanan, Perikanan"
+      }
+    ],
+    "var": [
+      {
+        "val": 64,
+        "label": "Produksi Ikan Laut Menurut Kecamatan di Kabupaten Kepulauan Selayar",
+        "unit": "Ton",
+        "subj": "Perikanan",
+        "def": "",
+        "decimal": null,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Wilayah Kecamatan",
+    "vervar": [
+      {
+        "val": 7301000,
+        "label": "<center><b>Kepulauan Selayar</b></center>"
+      },
+      {
+        "val": 7301010,
+        "label": "Pasimarannu"
+      },
+      {
+        "val": 7301011,
+        "label": "Pasilambena"
+      },
+      {
+        "val": 7301020,
+        "label": "Pasimassunggu"
+      },
+      {
+        "val": 7301021,
+        "label": "Takabonerate"
+      },
+      {
+        "val": 7301022,
+        "label": "Pasimassunggu Timur"
+      },
+      {
+        "val": 7301030,
+        "label": "Bontosikuyu"
+      },
+      {
+        "val": 7301040,
+        "label": "Bontoharu"
+      },
+      {
+        "val": 7301041,
+        "label": "Benteng"
+      },
+      {
+        "val": 7301042,
+        "label": "Bontomanai"
+      },
+      {
+        "val": 7301050,
+        "label": "Bontomatene"
+      },
+      {
+        "val": 7301051,
+        "label": "Buki"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 122,
+        "label": "2022"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "73010006401220": 21223.4,
+      "73010106401220": 3148.4,
+      "73010116401220": 1767.86,
+      "73010206401220": 1638.68,
+      "73010216401220": 4850.65,
+      "73010226401220": 716.39,
+      "73010306401220": 3209.6,
+      "73010406401220": 3029.08,
+      "73010416401220": 139.04,
+      "73010426401220": 535.2,
+      "73010506401220": 1468.57,
+      "73010516401220": 719.93
+    },
+    "related": []
+  }
+}

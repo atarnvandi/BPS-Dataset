@@ -1,0 +1,114 @@
+{
+  "fetch_metadata": {
+    "domain": "7313",
+    "variable_key": "pdrb_total",
+    "var_id": 79,
+    "fetched_at": "2026-08-23T07:45:09.829380+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 540,
+        "label": "Statistik Regional dan Statistik Area Kecil"
+      }
+    ],
+    "var": [
+      {
+        "val": 79,
+        "label": "Garis Lintang",
+        "unit": "Tidak Ada Satuan",
+        "subj": "Geografi",
+        "def": "Garis Lintang",
+        "decimal": 2,
+        "note": "Garis Lintang"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kecamatan",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Sabbangparu"
+      },
+      {
+        "val": 2,
+        "label": "Tempe"
+      },
+      {
+        "val": 3,
+        "label": "Pammana"
+      },
+      {
+        "val": 4,
+        "label": "Bola"
+      },
+      {
+        "val": 5,
+        "label": "Takkalalla"
+      },
+      {
+        "val": 6,
+        "label": "Sajoanging"
+      },
+      {
+        "val": 7,
+        "label": "Penrang"
+      },
+      {
+        "val": 8,
+        "label": "Majauleng"
+      },
+      {
+        "val": 9,
+        "label": "Tanasitolo"
+      },
+      {
+        "val": 10,
+        "label": "Belawa"
+      },
+      {
+        "val": 11,
+        "label": "Maniangpajo"
+      },
+      {
+        "val": 12,
+        "label": "Gilireng"
+      },
+      {
+        "val": 13,
+        "label": "Keera"
+      },
+      {
+        "val": 14,
+        "label": "Pitumpanua"
+      },
+      {
+        "val": 15,
+        "label": "Kabupaten Wajo"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 124,
+        "label": "2024"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": [],
+    "related": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "fetch_metadata": {
+    "domain": "7303",
+    "variable_key": "pdrb_total",
+    "var_id": 79,
+    "fetched_at": "2026-08-23T07:43:45.157481+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-11-05 03:43:12",
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 79,
+        "label": "[Metode Baru] Pengeluaran per Kapita Disesuaikan (Ribu Rupiah/Orang/Tahun)",
+        "unit": "",
+        "subj": "Indeks Pembangunan Manusia",
+        "def": "",
+        "decimal": 0,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten",
+    "vervar": [
+      {
+        "val": 7303,
+        "label": "Bantaeng"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 123,
+        "label": "2023"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 111,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "7303790123111": 12304
+    },
+    "related": []
+  }
+}

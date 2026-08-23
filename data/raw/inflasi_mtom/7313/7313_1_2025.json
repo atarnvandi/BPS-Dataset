@@ -1,0 +1,48 @@
+{
+  "fetch_metadata": {
+    "domain": "7313",
+    "variable_key": "inflasi_mtom",
+    "var_id": 1,
+    "fetched_at": "2026-08-23T07:48:29.826254+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 536,
+        "label": "Harga-Harga"
+      }
+    ],
+    "var": [
+      {
+        "val": 1,
+        "label": "Inflasi",
+        "unit": "Tidak Ada Satuan",
+        "subj": "Inflasi",
+        "def": "",
+        "decimal": null,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": [],
+    "vervar": [],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [],
+    "datacontent": [],
+    "related": []
+  }
+}

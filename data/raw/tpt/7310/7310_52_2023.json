@@ -1,0 +1,145 @@
+{
+  "fetch_metadata": {
+    "domain": "7310",
+    "variable_key": "tpt",
+    "var_id": 52,
+    "fetched_at": "2026-08-23T07:51:19.571585+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-02-27 08:27:10",
+    "subject": [
+      {
+        "val": 531,
+        "label": "Neraca Ekonomi"
+      }
+    ],
+    "var": [
+      {
+        "val": 52,
+        "label": "PDRB Kabupaten Barru Atas Dasar Harga Konstan Menurut Lapangan Usaha ",
+        "unit": "Miliar Rupiah",
+        "subj": "Produk Domestik Regional Bruto (Lapangan Usaha)",
+        "def": "",
+        "decimal": 2,
+        "note": "2024: *Angka Sementara<br/>\n2025: **Angka Sangat Sementara<br/>\n2026: ***Angka Sangat-sangat Sementara<br/>\n<br/>"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Lapangan Usaha (PDRB)",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Pertanian, Kehutanan dan Perikanan"
+      },
+      {
+        "val": 2,
+        "label": "Pertambangan dan Penggalian"
+      },
+      {
+        "val": 3,
+        "label": "Industri Pengolahan"
+      },
+      {
+        "val": 4,
+        "label": "Pengadaan Listrik dan Gas"
+      },
+      {
+        "val": 5,
+        "label": "Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang"
+      },
+      {
+        "val": 6,
+        "label": "Konstruksi"
+      },
+      {
+        "val": 7,
+        "label": "Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor"
+      },
+      {
+        "val": 8,
+        "label": "Transportasi dan Pergudangan"
+      },
+      {
+        "val": 9,
+        "label": "Penyediaan Akomodasi dan Makan Minum"
+      },
+      {
+        "val": 10,
+        "label": "Informasi dan Komunikasi"
+      },
+      {
+        "val": 11,
+        "label": "Jasa Keuangan dan Asuransi"
+      },
+      {
+        "val": 12,
+        "label": "Real Estat"
+      },
+      {
+        "val": 13,
+        "label": "Jasa Perusahaan"
+      },
+      {
+        "val": 14,
+        "label": "Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib"
+      },
+      {
+        "val": 15,
+        "label": "Jasa Pendidikan"
+      },
+      {
+        "val": 16,
+        "label": "Jasa Kesehatan dan Kegiatan Sosial"
+      },
+      {
+        "val": 17,
+        "label": "Jasa Lainnya"
+      },
+      {
+        "val": 18,
+        "label": "Produk Domestik Regional Bruto"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 123,
+        "label": "2023"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "105201230": 385.96,
+      "115201230": 133.49,
+      "125201230": 185.31,
+      "135201230": 1.56,
+      "145201230": 395.14,
+      "15201230": 1843.85,
+      "155201230": 212.33,
+      "165201230": 157.12,
+      "175201230": 40.93,
+      "185201230": 5516.25,
+      "25201230": 158.11,
+      "35201230": 289.19,
+      "45201230": 8.67,
+      "55201230": 6.98,
+      "65201230": 897.62,
+      "75201230": 586.68,
+      "85201230": 149.72,
+      "95201230": 63.59
+    },
+    "related": []
+  }
+}

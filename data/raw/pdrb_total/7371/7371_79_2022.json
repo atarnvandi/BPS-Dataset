@@ -1,0 +1,144 @@
+{
+  "fetch_metadata": {
+    "domain": "7371",
+    "variable_key": "pdrb_total",
+    "var_id": 79,
+    "fetched_at": "2026-08-23T07:46:21.519326+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-03-05 03:36:57",
+    "subject": [
+      {
+        "val": 531,
+        "label": "Neraca Ekonomi"
+      }
+    ],
+    "var": [
+      {
+        "val": 79,
+        "label": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+        "unit": "Miliar Rupiah",
+        "subj": "Produk Domestik Regional Bruto",
+        "def": "",
+        "decimal": 2,
+        "note": "2024 : angka sementara 2025 : angka sangat sementara"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Lapangan Usaha PDRB",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "A-Pertanian, Kehutanan, dan Perikanan"
+      },
+      {
+        "val": 2,
+        "label": "B-Pertambangan dan Penggalian "
+      },
+      {
+        "val": 3,
+        "label": "C-Industri Pengolahan"
+      },
+      {
+        "val": 4,
+        "label": "D-Pengadaan Listrik dan Gas"
+      },
+      {
+        "val": 5,
+        "label": "E-Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang"
+      },
+      {
+        "val": 6,
+        "label": "F-Konstruksi"
+      },
+      {
+        "val": 7,
+        "label": "G-Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor"
+      },
+      {
+        "val": 8,
+        "label": "H-Transportasi dan Pergudangan"
+      },
+      {
+        "val": 9,
+        "label": "I-Penyediaan Akomodasi dan Makan Minum"
+      },
+      {
+        "val": 10,
+        "label": "J-Informasi dan Komunikasi"
+      },
+      {
+        "val": 11,
+        "label": "K-Jasa Keuangan dan Asuransi"
+      },
+      {
+        "val": 12,
+        "label": "L-Real Estate"
+      },
+      {
+        "val": 13,
+        "label": "M,N-Jasa Perusahaan"
+      },
+      {
+        "val": 14,
+        "label": "O-Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib"
+      },
+      {
+        "val": 15,
+        "label": "P-Jasa Pendidikan"
+      },
+      {
+        "val": 16,
+        "label": "Q-Jasa Kesehatan dan Kegiatan Sosial"
+      },
+      {
+        "val": 17,
+        "label": "R,S,T,U-Jasa lainnya"
+      },
+      {
+        "val": 18,
+        "label": "PDRB"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 122,
+        "label": "2022"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "107901220": 20159.26,
+      "117901220": 11514.82,
+      "127901220": 7088.39,
+      "137901220": 2513.01,
+      "147901220": 6733.07,
+      "157901220": 17439.13,
+      "167901220": 7054.41,
+      "177901220": 5519.7,
+      "17901220": 1007.22,
+      "187901220": 208935.79,
+      "37901220": 38892.74,
+      "47901220": 63.19,
+      "57901220": 368.88,
+      "67901220": 38870.36,
+      "77901220": 41997.95,
+      "87901220": 5480.41,
+      "97901220": 4233.26
+    },
+    "related": []
+  }
+}

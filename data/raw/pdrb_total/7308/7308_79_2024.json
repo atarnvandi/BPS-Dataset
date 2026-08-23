@@ -1,0 +1,151 @@
+{
+  "fetch_metadata": {
+    "domain": "7308",
+    "variable_key": "pdrb_total",
+    "var_id": 79,
+    "fetched_at": "2026-08-23T07:44:28.371321+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-03-05 02:20:48",
+    "subject": [
+      {
+        "val": 531,
+        "label": "Neraca Ekonomi"
+      }
+    ],
+    "var": [
+      {
+        "val": 79,
+        "label": "Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kabupaten Maros",
+        "unit": "Persen",
+        "subj": "Produk Domestik Regional Bruto",
+        "def": "<b>Cakupan Lapangan Usaha</b>\n\n<br/>\nSektor Primer: <br/>\nA. Pertanian, Kehutanan, dan Perikanan<br/>\nB. Pertambangan dan Penggalian<br/>\n<br/>\nSektor Sekunder:<br/>\nC. Industri Pengolahan<br/>\nD. Pengadaan Listrik dan Gas<br/>\nE. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang<br/>\nF. Konstruksi<br/>\n<br/>\nSektor Tersier:<br/>\nG. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor<br/>\nH. Transportasi dan Pergudangan<br/> \t\nI. Penyediaan Akomodasi dan Makan Minum<br/>\nJ. Informasi dan Komunikasi<br/>\nK. Jasa Keuangan dan Asuransi<br/>\nL. Real Estat<br/>\nM,N. Jasa Perusahaan<br/>\nO. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib<br/>\nP. Jasa Pendidikan<br/>\nQ. Jasa Kesehatan dan Kegiatan Sosial<br/>\nR,S,T,U. Jasa Lainnya<br/>\n",
+        "decimal": 2,
+        "note": "q-to-q: PDRB atas dasar harga konstan 2010 pada suatu triwulan dibandingkan dengan triwulan sebelumnya<br/>\ny-on-y: PDRB atas dasar harga konstan 2010 pada suatu triwulan dibandingkan dengan triwulan yang sama tahun sebelumnya<br/>\nc-to-c: PDRB atas dasar harga konstan 2010 kumulatif sampai dengan triwulan dibandingkan periode kumulatif yang sama pada tahun sebelumnya\n<br/>\n\n2023: *Angka Sementara<br/>\n2024: **Angka Sangat Sementara<br/>\n2025: ***Angka Sangat-sangat Sementara<br/>\n<br/>\n"
+      }
+    ],
+    "turvar": [
+      {
+        "val": 56,
+        "label": "Q to Q"
+      },
+      {
+        "val": 57,
+        "label": "Y on Y"
+      },
+      {
+        "val": 58,
+        "label": "C to C"
+      }
+    ],
+    "labelvervar": "Kategori Lapangan Usaha PDRB",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Sektor Primer"
+      },
+      {
+        "val": 2,
+        "label": "Sektor Sekunder"
+      },
+      {
+        "val": 3,
+        "label": "Sektor Tersier"
+      },
+      {
+        "val": 4,
+        "label": "Produk Domestik Regional Bruto"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 124,
+        "label": "2024"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 31,
+        "label": "Triwulan I"
+      },
+      {
+        "val": 32,
+        "label": "Triwulan II"
+      },
+      {
+        "val": 33,
+        "label": "Triwulan III"
+      },
+      {
+        "val": 34,
+        "label": "Triwulan IV"
+      },
+      {
+        "val": 35,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": {
+      "1795612431": 8.88,
+      "1795612432": 8.77,
+      "1795612433": 4.86,
+      "1795612434": -13.97,
+      "1795712431": 1.6,
+      "1795712432": 6.22,
+      "1795712433": 0.82,
+      "1795712434": 6.84,
+      "1795712435": 3.73,
+      "1795812431": 1.6,
+      "1795812432": 3.95,
+      "1795812433": 2.83,
+      "1795812434": 3.73,
+      "1795812435": 3.73,
+      "2795612431": -20.3,
+      "2795612432": -5.15,
+      "2795612433": 19.47,
+      "2795612434": 13.67,
+      "2795712431": 4.21,
+      "2795712432": 3.42,
+      "2795712433": 2.48,
+      "2795712434": 2.66,
+      "2795712435": 3.13,
+      "2795812431": 4.21,
+      "2795812432": 3.82,
+      "2795812433": 3.32,
+      "2795812434": 3.13,
+      "2795812435": 3.13,
+      "3795612431": -4.03,
+      "3795612432": 10.66,
+      "3795612433": -0.76,
+      "3795612434": 0.18,
+      "3795712431": 2.34,
+      "3795712432": 4.62,
+      "3795712433": 4.34,
+      "3795712434": 5.57,
+      "3795712435": 4.25,
+      "3795812431": 2.34,
+      "3795812432": 3.53,
+      "3795812433": 3.8,
+      "3795812434": 4.25,
+      "3795812435": 4.25,
+      "4795612431": -5.7,
+      "4795612432": 5.91,
+      "4795612433": 5.78,
+      "4795612434": -0.62,
+      "4795712431": 2.6,
+      "4795712432": 4.83,
+      "4795712433": 2.73,
+      "4795712434": 5,
+      "4795712435": 3.79,
+      "4795812431": 2.6,
+      "4795812432": 3.73,
+      "4795812433": 3.38,
+      "4795812434": 3.79,
+      "4795812435": 3.79
+    },
+    "related": []
+  }
+}
