@@ -1,0 +1,227 @@
+======================================================================
+BPS Variable Discovery — Domain: 7371 (Kota Makassar)
+======================================================================
+
+📂 Step 1: Mengambil daftar Subject...
+   Ditemukan 43 subjects
+
+📋 Subjects relevan (5):
+   [23] Kemiskinan (ntabel=None)
+   [12] Kependudukan (ntabel=None)
+   [3] Inflasi (ntabel=None)
+   [11] Produk Domestik Bruto (ntabel=None)
+   [52] Produk Domestik Regional Bruto (ntabel=None)
+
+📋 Semua subjects (43):
+   [40] Gender (ntabel=None)
+   [153] Geografi (ntabel=None)
+   [151] Iklim (ntabel=None)
+   [26] Indeks Pembangunan Manusia (ntabel=None)
+   [23] Kemiskinan (ntabel=None)
+   [12] Kependudukan (ntabel=None)
+   [30] Kesehatan (ntabel=None)
+   [5] Konsumsi dan Pengeluaran (ntabel=None)
+   [152] Lingkungan Hidup (ntabel=None)
+   [101] Pemerintahan (ntabel=None)
+   [28] Pendidikan (ntabel=None)
+   [29] Perumahan (ntabel=None)
+   [34] Politik dan Keamanan (ntabel=None)
+   [27] Sosial Budaya (ntabel=None)
+   [6] Tenaga Kerja (ntabel=None)
+   [8] Ekspor-Impor (ntabel=None)
+   [7] Energi (ntabel=None)
+   [102] Harga Eceran (ntabel=None)
+   [36] Harga Produsen (ntabel=None)
+   [20] Indeks Harga Perdagangan Besar (ntabel=None)
+   [9] Industri (ntabel=None)
+   [3] Inflasi (ntabel=None)
+   [105] Input output (ntabel=None)
+   [25] ITB-ITK (ntabel=None)
+   [13] Keuangan (ntabel=None)
+   [2] Komunikasi (ntabel=None)
+   [4] Konstruksi (ntabel=None)
+   [100] Neraca Arus Dana (ntabel=None)
+   [104] Neraca Sosial Ekonomi (ntabel=None)
+   [22] Nilai Tukar Petani (ntabel=None)
+   [16] Pariwisata (ntabel=None)
+   [11] Produk Domestik Bruto (ntabel=None)
+   [52] Produk Domestik Regional Bruto (ntabel=None)
+   [17] Transportasi (ntabel=None)
+   [19] Upah  Buruh (ntabel=None)
+   [35] Usaha Mikro Kecil (ntabel=None)
+   [55] Hortikultura (ntabel=None)
+   [60] Kehutanan (ntabel=None)
+   [56] Perikanan (ntabel=None)
+   [54] Perkebunan (ntabel=None)
+   [10] Pertambangan (ntabel=None)
+   [24] Peternakan (ntabel=None)
+   [53] Tanaman Pangan (ntabel=None)
+
+======================================================================
+📊 Step 2: Mengambil daftar Variable per subject relevan...
+======================================================================
+
+   --- Subject [23] Kemiskinan ---
+   Ditemukan 6 variables
+   [51] Jumlah Penduduk Miskin Kota Makassar (Ribu Jiwa)
+   [54] Persentase Penduduk Miskin Kota Makassar (Persen)
+   [64] Garis Kemiskinan Kota Makassar (Rupiah)
+   [90] Indeks Kedalaman Kemiskinan Kota Makassar (Tidak Ada Satuan)
+   [91] Indeks Keparahan Kemiskinan Kota Makassar (Tidak Ada Satuan)
+   [109] Koefisien Gini Kota Makassar (Tidak Ada Satuan)
+
+   --- Subject [12] Kependudukan ---
+   Ditemukan 5 variables
+   [71] Jumlah Rumah Tangga Menurut Kecamatan di Kota Makassar (Tidak Ada Satuan)
+   [72] Jumlah Penduduk Menurut Kecamatan dan Jenis Kelamin di Kota Makassar (Jiwa)
+   [73] Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Makassar (Jiwa)
+   [74] Kepadatan Penduduk Menurut Kecamatan di Kota Makassar (jiwa per km2)
+   [76] Rasio Jenis Kelamin Menurut Kecamatan di Kota Makassar (Persen)
+
+   --- Subject [3] Inflasi ---
+   Ditemukan 10 variables
+   [1] Inflasi Bulanan (M-to-M) Kota Makassar (2018=100) (Persen)
+   [2] Indeks Harga Konsumen Kota Makassar (2018=100) (Tidak Ada Satuan)
+   [107] Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2018=100) (Persen)
+   [110] Indeks Harga Konsumen Kota Makassar (2022=100) (Tidak Ada Satuan)
+   [111] Inflasi Bulanan (M-to-M) Kota Makassar (2022=100) (Persen)
+   [112] Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2022=100) (Persen)
+   [122] Inflasi Tahunan (Y-on-Y) Kota Makassar (2022=100) (Persen)
+   [123] Inflasi Tahunan (Y-on-Y) Menurut Kelompok Pengeluaran Kota Makassar (2022=100) (Persen)
+   [124] Inflasi Tahun Kalender (Y-to-D) Kota Makassar (2022=100) (Persen)
+   [125] Inflasi Tahun Kalender (Y-to-D) Menurut Kelompok Pengeluaran Kota Makassar (2022=100) (Persen)
+
+   --- Subject [11] Produk Domestik Bruto ---
+   Ditemukan 0 variables
+
+   --- Subject [52] Produk Domestik Regional Bruto ---
+   Ditemukan 22 variables
+   [44] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran (Juta Rupiah)
+   [45] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran (Juta Rupiah)
+   [46] Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran (Persen)
+   [47] Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran (Persen)
+   [48] Laju Indeks Implisit PDRB Kota Makassar Menurut Pengeluaran (Persen)
+   [79] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha (Miliar Rupiah)
+   [82] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan Menurut Lapangan Usaha (Miliar Rupiah)
+   [83] Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha (Persen)
+   [84] Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha (Persen)
+   [85] Laju Indeks Implisit PDRB Kota Makassar Menurut Lapangan Usaha (Persen)
+   [113] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar (Milyar Rupiah)
+   [114] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Atas Dasar Harga Berlaku Kota Makassar (Persen)
+   [115] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar (Persen)
+   [116] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar (Milyar Rupiah)
+   [120] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Atas Dasar Harga Berlaku Kota Makassar (Persen)
+   [121] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar (Persen)
+   [135] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Kota Makassar (Miliar Rupiah)
+   [137] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Atas Dasar Harga Konstan (2010=100) Kota Makassar (Persen)
+   [140] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Kota Makassar (Miliar Rupiah)
+   [141] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Kota Makassar (Persen)
+   [142] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Atas Dasar Harga Berlaku Kota Makassar (Persen)
+   [143] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Atas Dasar Harga Berlaku Kota Makassar (Persen)
+
+======================================================================
+🔍 Step 3: Testing data availability (tahun 2023)...
+======================================================================
+   [51] Jumlah Penduduk Miskin Kota Makassar: ✅ ADA DATA
+   [54] Persentase Penduduk Miskin Kota Makassar: ✅ ADA DATA
+   [64] Garis Kemiskinan Kota Makassar: ✅ ADA DATA
+   [90] Indeks Kedalaman Kemiskinan Kota Makassar: ✅ ADA DATA
+   [91] Indeks Keparahan Kemiskinan Kota Makassar: ✅ ADA DATA
+   [109] Koefisien Gini Kota Makassar: ✅ ADA DATA
+   [71] Jumlah Rumah Tangga Menurut Kecamatan di Kota Makassar: ❌ KOSONG
+   [72] Jumlah Penduduk Menurut Kecamatan dan Jenis Kelamin di Kota Makassar: ✅ ADA DATA
+   [73] Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Makassar: ✅ ADA DATA
+   [74] Kepadatan Penduduk Menurut Kecamatan di Kota Makassar: ✅ ADA DATA
+   [76] Rasio Jenis Kelamin Menurut Kecamatan di Kota Makassar: ✅ ADA DATA
+   [1] Inflasi Bulanan (M-to-M) Kota Makassar (2018=100): ✅ ADA DATA
+   [2] Indeks Harga Konsumen Kota Makassar (2018=100): ✅ ADA DATA
+   [107] Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2018=100): ✅ ADA DATA
+   [110] Indeks Harga Konsumen Kota Makassar (2022=100): ❌ KOSONG
+   [111] Inflasi Bulanan (M-to-M) Kota Makassar (2022=100): ❌ KOSONG
+   [112] Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2022=100): ❌ KOSONG
+   [122] Inflasi Tahunan (Y-on-Y) Kota Makassar (2022=100): ❌ KOSONG
+   [123] Inflasi Tahunan (Y-on-Y) Menurut Kelompok Pengeluaran Kota Makassar (2022=100): ❌ KOSONG
+   [124] Inflasi Tahun Kalender (Y-to-D) Kota Makassar (2022=100): ❌ KOSONG
+   [125] Inflasi Tahun Kalender (Y-to-D) Menurut Kelompok Pengeluaran Kota Makassar (2022=100): ❌ KOSONG
+   [44] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran: ✅ ADA DATA
+   [45] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran: ✅ ADA DATA
+   [46] Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran: ✅ ADA DATA
+   [47] Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran: ✅ ADA DATA
+   [48] Laju Indeks Implisit PDRB Kota Makassar Menurut Pengeluaran: ❌ KOSONG
+   [79] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha: ✅ ADA DATA
+   [82] Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan Menurut Lapangan Usaha: ✅ ADA DATA
+   [83] Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha: ✅ ADA DATA
+   [84] Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha: ✅ ADA DATA
+   [85] Laju Indeks Implisit PDRB Kota Makassar Menurut Lapangan Usaha: ❌ KOSONG
+   [113] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar: ✅ ADA DATA
+   [114] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Atas Dasar Harga Berlaku Kota Makassar: ✅ ADA DATA
+   [115] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar: ✅ ADA DATA
+   [116] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar: ✅ ADA DATA
+   [120] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Atas Dasar Harga Berlaku Kota Makassar: ✅ ADA DATA
+   [121] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar: ✅ ADA DATA
+   [135] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Kota Makassar: ❌ KOSONG
+   [137] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Atas Dasar Harga Konstan (2010=100) Kota Makassar: ❌ KOSONG
+   [140] Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Kota Makassar: ❌ KOSONG
+   [141] Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Kota Makassar: ❌ KOSONG
+   [142] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Atas Dasar Harga Berlaku Kota Makassar: ❌ KOSONG
+   [143] Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Atas Dasar Harga Berlaku Kota Makassar: ❌ KOSONG
+
+======================================================================
+📝 HASIL DISCOVERY — Variabel dengan data tersedia
+======================================================================
+   var_id=    51  | Jumlah Penduduk Miskin Kota Makassar
+           unit=Ribu Jiwa  | subject: Kemiskinan
+   var_id=    54  | Persentase Penduduk Miskin Kota Makassar
+           unit=Persen  | subject: Kemiskinan
+   var_id=    64  | Garis Kemiskinan Kota Makassar
+           unit=Rupiah  | subject: Kemiskinan
+   var_id=    90  | Indeks Kedalaman Kemiskinan Kota Makassar
+           unit=Tidak Ada Satuan  | subject: Kemiskinan
+   var_id=    91  | Indeks Keparahan Kemiskinan Kota Makassar
+           unit=Tidak Ada Satuan  | subject: Kemiskinan
+   var_id=   109  | Koefisien Gini Kota Makassar
+           unit=Tidak Ada Satuan  | subject: Kemiskinan
+   var_id=    72  | Jumlah Penduduk Menurut Kecamatan dan Jenis Kelamin di Kota Makassar
+           unit=Jiwa  | subject: Kependudukan
+   var_id=    73  | Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Makassar
+           unit=Jiwa  | subject: Kependudukan
+   var_id=    74  | Kepadatan Penduduk Menurut Kecamatan di Kota Makassar
+           unit=jiwa per km2  | subject: Kependudukan
+   var_id=    76  | Rasio Jenis Kelamin Menurut Kecamatan di Kota Makassar
+           unit=Persen  | subject: Kependudukan
+   var_id=     1  | Inflasi Bulanan (M-to-M) Kota Makassar (2018=100)
+           unit=Persen  | subject: Inflasi
+   var_id=     2  | Indeks Harga Konsumen Kota Makassar (2018=100)
+           unit=Tidak Ada Satuan  | subject: Inflasi
+   var_id=   107  | Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2018=100)
+           unit=Persen  | subject: Inflasi
+   var_id=    44  | Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran
+           unit=Juta Rupiah  | subject: Produk Domestik Regional Bruto
+   var_id=    45  | Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran
+           unit=Juta Rupiah  | subject: Produk Domestik Regional Bruto
+   var_id=    46  | Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+   var_id=    47  | Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+   var_id=    79  | Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha
+           unit=Miliar Rupiah  | subject: Produk Domestik Regional Bruto
+   var_id=    82  | Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan Menurut Lapangan Usaha
+           unit=Miliar Rupiah  | subject: Produk Domestik Regional Bruto
+   var_id=    83  | Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+   var_id=    84  | Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+   var_id=   113  | Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar
+           unit=Milyar Rupiah  | subject: Produk Domestik Regional Bruto
+   var_id=   114  | Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Atas Dasar Harga Berlaku Kota Makassar
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+   var_id=   115  | Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+   var_id=   116  | Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar
+           unit=Milyar Rupiah  | subject: Produk Domestik Regional Bruto
+   var_id=   120  | Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Atas Dasar Harga Berlaku Kota Makassar
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+   var_id=   121  | Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar
+           unit=Persen  | subject: Produk Domestik Regional Bruto
+
+💾 Hasil lengkap disimpan ke: discovery_results.json

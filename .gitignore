@@ -1,0 +1,29 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Raw data output
+# (Kini kita tracking data mentah di Git untuk Git Scraping)
+# data/raw/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Distribution
+dist/
+build/
+*.egg-info/

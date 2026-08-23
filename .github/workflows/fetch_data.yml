@@ -1,0 +1,54 @@
+name: BPS Data Git Scraping
+
+on:
+  schedule:
+    # Jalan otomatis setiap tanggal 1 jam 00:00 UTC (07:00 WIB)
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+    # Memungkinkan untuk di-trigger manual lewat UI GitHub
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Wajib agar bot bisa git push
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch BPS Data
+        env:
+          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}
+        run: |
+          # Jalankan script fetch
+          python fetch_bps.py
+          
+      - name: Commit and Push Data
+        run: |
+          # Konfigurasi identitas Git bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Tambahkan semua perubahan di folder data/ dan README.md
+          git add data/raw/ README.md
+          
+          # Cek apakah ada perubahan (data baru)
+          if git diff --staged --quiet; then
+            echo "Tidak ada data baru untuk di-commit."
+          else
+            echo "Data baru ditemukan. Menyimpan ke repository..."
+            git commit -m "Automated data fetch: $(date +'%Y-%m-%d')"
+            git push
+          fi

@@ -1,0 +1,800 @@
+{
+  "domain": "7371",
+  "all_subjects": [
+    {
+      "sub_id": 40,
+      "title": "Gender",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 153,
+      "title": "Geografi",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 151,
+      "title": "Iklim",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 26,
+      "title": "Indeks Pembangunan Manusia",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 23,
+      "title": "Kemiskinan",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 12,
+      "title": "Kependudukan",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 30,
+      "title": "Kesehatan",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 5,
+      "title": "Konsumsi dan Pengeluaran",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 152,
+      "title": "Lingkungan Hidup",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 101,
+      "title": "Pemerintahan",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 28,
+      "title": "Pendidikan",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 29,
+      "title": "Perumahan",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 34,
+      "title": "Politik dan Keamanan",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 27,
+      "title": "Sosial Budaya",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 6,
+      "title": "Tenaga Kerja",
+      "subcat_id": 1,
+      "subcat": "Sosial dan Kependudukan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 8,
+      "title": "Ekspor-Impor",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 7,
+      "title": "Energi",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 102,
+      "title": "Harga Eceran",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 36,
+      "title": "Harga Produsen",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 20,
+      "title": "Indeks Harga Perdagangan Besar",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 9,
+      "title": "Industri",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 3,
+      "title": "Inflasi",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 105,
+      "title": "Input output",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 25,
+      "title": "ITB-ITK",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 13,
+      "title": "Keuangan",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 2,
+      "title": "Komunikasi",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 4,
+      "title": "Konstruksi",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 100,
+      "title": "Neraca Arus Dana",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 104,
+      "title": "Neraca Sosial Ekonomi",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 22,
+      "title": "Nilai Tukar Petani",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 16,
+      "title": "Pariwisata",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 11,
+      "title": "Produk Domestik Bruto",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 52,
+      "title": "Produk Domestik Regional Bruto",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 17,
+      "title": "Transportasi",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 19,
+      "title": "Upah  Buruh",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 35,
+      "title": "Usaha Mikro Kecil",
+      "subcat_id": 2,
+      "subcat": "Ekonomi dan Perdagangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 55,
+      "title": "Hortikultura",
+      "subcat_id": 3,
+      "subcat": "Pertanian dan Pertambangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 60,
+      "title": "Kehutanan",
+      "subcat_id": 3,
+      "subcat": "Pertanian dan Pertambangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 56,
+      "title": "Perikanan",
+      "subcat_id": 3,
+      "subcat": "Pertanian dan Pertambangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 54,
+      "title": "Perkebunan",
+      "subcat_id": 3,
+      "subcat": "Pertanian dan Pertambangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 10,
+      "title": "Pertambangan",
+      "subcat_id": 3,
+      "subcat": "Pertanian dan Pertambangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 24,
+      "title": "Peternakan",
+      "subcat_id": 3,
+      "subcat": "Pertanian dan Pertambangan",
+      "ntabel": null
+    },
+    {
+      "sub_id": 53,
+      "title": "Tanaman Pangan",
+      "subcat_id": 3,
+      "subcat": "Pertanian dan Pertambangan",
+      "ntabel": null
+    }
+  ],
+  "relevant_variables": [
+    {
+      "var_id": 51,
+      "title": "Jumlah Penduduk Miskin Kota Makassar",
+      "unit": "Ribu Jiwa",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 54,
+      "title": "Persentase Penduduk Miskin Kota Makassar",
+      "unit": "Persen",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 64,
+      "title": "Garis Kemiskinan Kota Makassar",
+      "unit": "Rupiah",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 90,
+      "title": "Indeks Kedalaman Kemiskinan Kota Makassar",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 91,
+      "title": "Indeks Keparahan Kemiskinan Kota Makassar",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 109,
+      "title": "Koefisien Gini Kota Makassar",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 71,
+      "title": "Jumlah Rumah Tangga Menurut Kecamatan di Kota Makassar",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 72,
+      "title": "Jumlah Penduduk Menurut Kecamatan dan Jenis Kelamin di Kota Makassar",
+      "unit": "Jiwa",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 73,
+      "title": "Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Makassar",
+      "unit": "Jiwa",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 74,
+      "title": "Kepadatan Penduduk Menurut Kecamatan di Kota Makassar",
+      "unit": "jiwa per km2",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 76,
+      "title": "Rasio Jenis Kelamin Menurut Kecamatan di Kota Makassar",
+      "unit": "Persen",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 1,
+      "title": "Inflasi Bulanan (M-to-M) Kota Makassar (2018=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 2,
+      "title": "Indeks Harga Konsumen Kota Makassar (2018=100)",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 107,
+      "title": "Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2018=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 110,
+      "title": "Indeks Harga Konsumen Kota Makassar (2022=100)",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 111,
+      "title": "Inflasi Bulanan (M-to-M) Kota Makassar (2022=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 112,
+      "title": "Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2022=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 122,
+      "title": "Inflasi Tahunan (Y-on-Y) Kota Makassar (2022=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 123,
+      "title": "Inflasi Tahunan (Y-on-Y) Menurut Kelompok Pengeluaran Kota Makassar (2022=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 124,
+      "title": "Inflasi Tahun Kalender (Y-to-D) Kota Makassar (2022=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 125,
+      "title": "Inflasi Tahun Kalender (Y-to-D) Menurut Kelompok Pengeluaran Kota Makassar (2022=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 44,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran",
+      "unit": "Juta Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 45,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran",
+      "unit": "Juta Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 46,
+      "title": "Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 47,
+      "title": "Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 48,
+      "title": "Laju Indeks Implisit PDRB Kota Makassar Menurut Pengeluaran",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 79,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+      "unit": "Miliar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 82,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan Menurut Lapangan Usaha",
+      "unit": "Miliar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 83,
+      "title": "Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 84,
+      "title": "Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 85,
+      "title": "Laju Indeks Implisit PDRB Kota Makassar Menurut Lapangan Usaha",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 113,
+      "title": "Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar",
+      "unit": "Milyar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 114,
+      "title": "Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Atas Dasar Harga Berlaku Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 115,
+      "title": "Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 116,
+      "title": "Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar",
+      "unit": "Milyar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 120,
+      "title": "Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Atas Dasar Harga Berlaku Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 121,
+      "title": "Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 135,
+      "title": "Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Kota Makassar",
+      "unit": "Miliar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 137,
+      "title": "Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Atas Dasar Harga Konstan (2010=100) Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 140,
+      "title": "Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Kota Makassar",
+      "unit": "Miliar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 141,
+      "title": "Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 142,
+      "title": "Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut 6 Komponen Pengeluaran Atas Dasar Harga Berlaku Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 143,
+      "title": "Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha (Terperinci) Atas Dasar Harga Berlaku Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    }
+  ],
+  "candidates_with_data": [
+    {
+      "var_id": 51,
+      "title": "Jumlah Penduduk Miskin Kota Makassar",
+      "unit": "Ribu Jiwa",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 54,
+      "title": "Persentase Penduduk Miskin Kota Makassar",
+      "unit": "Persen",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 64,
+      "title": "Garis Kemiskinan Kota Makassar",
+      "unit": "Rupiah",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 90,
+      "title": "Indeks Kedalaman Kemiskinan Kota Makassar",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 91,
+      "title": "Indeks Keparahan Kemiskinan Kota Makassar",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 109,
+      "title": "Koefisien Gini Kota Makassar",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Kemiskinan",
+      "sub_id": 23
+    },
+    {
+      "var_id": 72,
+      "title": "Jumlah Penduduk Menurut Kecamatan dan Jenis Kelamin di Kota Makassar",
+      "unit": "Jiwa",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 73,
+      "title": "Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Makassar",
+      "unit": "Jiwa",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 74,
+      "title": "Kepadatan Penduduk Menurut Kecamatan di Kota Makassar",
+      "unit": "jiwa per km2",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 76,
+      "title": "Rasio Jenis Kelamin Menurut Kecamatan di Kota Makassar",
+      "unit": "Persen",
+      "subject": "Kependudukan",
+      "sub_id": 12
+    },
+    {
+      "var_id": 1,
+      "title": "Inflasi Bulanan (M-to-M) Kota Makassar (2018=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 2,
+      "title": "Indeks Harga Konsumen Kota Makassar (2018=100)",
+      "unit": "Tidak Ada Satuan",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 107,
+      "title": "Inflasi Bulanan (M-to-M) Menurut Kelompok Pengeluaran Kota Makassar (2018=100)",
+      "unit": "Persen",
+      "subject": "Inflasi",
+      "sub_id": 3
+    },
+    {
+      "var_id": 44,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran",
+      "unit": "Juta Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 45,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran",
+      "unit": "Juta Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 46,
+      "title": "Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Pengeluaran",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 47,
+      "title": "Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Pengeluaran",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 79,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+      "unit": "Miliar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 82,
+      "title": "Produk Domestik Regional Bruto (PDRB) Kota Makassar Atas Dasar Harga Konstan Menurut Lapangan Usaha",
+      "unit": "Miliar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 83,
+      "title": "Distribusi PDRB Kota Makassar Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 84,
+      "title": "Laju Pertumbuhan PDRB Kota Makassar Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 113,
+      "title": "Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar",
+      "unit": "Milyar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 114,
+      "title": "Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Atas Dasar Harga Berlaku Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 115,
+      "title": "Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 116,
+      "title": "Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar",
+      "unit": "Milyar Rupiah",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 120,
+      "title": "Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Atas Dasar Harga Berlaku Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    },
+    {
+      "var_id": 121,
+      "title": "Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kota Makassar",
+      "unit": "Persen",
+      "subject": "Produk Domestik Regional Bruto",
+      "sub_id": 52
+    }
+  ]
+}
