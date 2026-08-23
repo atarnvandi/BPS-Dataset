@@ -1,0 +1,175 @@
+{
+  "fetch_metadata": {
+    "domain": "7313",
+    "variable_key": "tpt",
+    "var_id": 298,
+    "fetched_at": "2026-08-23T08:58:44.352251+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-11-07 09:59:15",
+    "subject": [
+      {
+        "val": 520,
+        "label": "Tenaga Kerja"
+      }
+    ],
+    "var": [
+      {
+        "val": 298,
+        "label": "Tingkat Pengangguran Terbuka Se-Sulawesi Selatan",
+        "unit": "",
+        "subj": "Indikator Makro Sosial Ekonomi",
+        "def": "",
+        "decimal": 2,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten/kota",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Kep. Selayar"
+      },
+      {
+        "val": 2,
+        "label": "Bulukumba"
+      },
+      {
+        "val": 3,
+        "label": "Bantaeng"
+      },
+      {
+        "val": 4,
+        "label": "Jeneponto"
+      },
+      {
+        "val": 5,
+        "label": "Takalar"
+      },
+      {
+        "val": 6,
+        "label": "Gowa"
+      },
+      {
+        "val": 7,
+        "label": "Sinjai"
+      },
+      {
+        "val": 8,
+        "label": "Maros"
+      },
+      {
+        "val": 9,
+        "label": "Pangkep"
+      },
+      {
+        "val": 10,
+        "label": "Barru"
+      },
+      {
+        "val": 11,
+        "label": "Bone"
+      },
+      {
+        "val": 12,
+        "label": "Soppeng"
+      },
+      {
+        "val": 13,
+        "label": "Wajo"
+      },
+      {
+        "val": 14,
+        "label": "Sidrap"
+      },
+      {
+        "val": 15,
+        "label": "Pinrang"
+      },
+      {
+        "val": 16,
+        "label": "Enrekang"
+      },
+      {
+        "val": 17,
+        "label": "Luwu"
+      },
+      {
+        "val": 18,
+        "label": "Tana Toraja"
+      },
+      {
+        "val": 19,
+        "label": "Luwu Utara"
+      },
+      {
+        "val": 20,
+        "label": "Luwu Timur"
+      },
+      {
+        "val": 21,
+        "label": "Toraja Utara"
+      },
+      {
+        "val": 22,
+        "label": "Makassar"
+      },
+      {
+        "val": 23,
+        "label": "Pare-pare"
+      },
+      {
+        "val": 24,
+        "label": "Palopo"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 123,
+        "label": "2023"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "1029801230": 5.89,
+      "1129801230": 2.88,
+      "1229801230": 4.34,
+      "129801230": 1.98,
+      "1329801230": 2.1,
+      "1429801230": 3.29,
+      "1529801230": 3.64,
+      "1629801230": 1.53,
+      "1729801230": 3.7,
+      "1829801230": 3.37,
+      "1929801230": 2.63,
+      "2029801230": 5.42,
+      "2129801230": 2.6,
+      "2229801230": 10.6,
+      "229801230": 1.31,
+      "2329801230": 5.86,
+      "2429801230": 7.81,
+      "329801230": 3.71,
+      "429801230": 2.13,
+      "529801230": 3.58,
+      "629801230": 3.43,
+      "729801230": 1.69,
+      "829801230": 3.64,
+      "929801230": 5.05
+    },
+    "related": []
+  }
+}

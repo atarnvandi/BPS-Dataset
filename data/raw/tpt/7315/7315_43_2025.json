@@ -1,0 +1,60 @@
+{
+  "fetch_metadata": {
+    "domain": "7315",
+    "variable_key": "tpt",
+    "var_id": 43,
+    "fetched_at": "2026-08-23T08:59:05.317417+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-12-04 07:10:24",
+    "subject": [
+      {
+        "val": 520,
+        "label": "Tenaga Kerja"
+      }
+    ],
+    "var": [
+      {
+        "val": 43,
+        "label": "Tingkat Pengangguran Terbuka (TPT)",
+        "unit": "",
+        "subj": "Tenaga Kerja",
+        "def": "",
+        "decimal": null,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten Pinrang",
+    "vervar": [
+      {
+        "val": 7315,
+        "label": "Kabupaten Pinrang"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "73154301250": 3.65
+    },
+    "related": []
+  }
+}

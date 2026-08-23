@@ -1,0 +1,207 @@
+{
+  "fetch_metadata": {
+    "domain": "7310",
+    "variable_key": "inflasi_mtom",
+    "var_id": 261,
+    "fetched_at": "2026-08-23T08:55:10.505778+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-10-08 01:33:44",
+    "subject": [
+      {
+        "val": 536,
+        "label": "Harga-Harga"
+      }
+    ],
+    "var": [
+      {
+        "val": 261,
+        "label": "Inflasi Bulanan (M-to-M) Menurut Kabupaten/Kota Inflasi di Sulawesi Selatan",
+        "unit": "Persen",
+        "subj": "Inflasi",
+        "def": "",
+        "decimal": 2,
+        "note": "1. Sebelum April 1979, yang digunakan sebagai dasar yaitu September 1966 ( September 1966 = 100 ) <br> 2. Mulai April 1979, digunakan istilah Indeks Harga Konsumen (sebelumnya menggunakan istilah Index Biaya Hidup). Dasarnya April 1977-Maret 1978. Menggunakan pola konsumsi hasil SBH (Survey Biaya Hidup ) tahun 1977/1978 di 17 ibukota propinsi ( April 1977-Maret 1978 = 100 ). <br> 3. Mulai April 1990-1997, IHK menggunakan tahun dasar 1988/1989. Menggunakan pola konsumsi biaya hidup hasil SBH di 27 ibukota propinsi. (1988/1989 = 100 ) <br> 4. Mulai Desember 1997, IHK menggunakan pola konsumsi hasil SBH di 44 Kota tahun 1996. ( 1996 = 100) <br> 5. Mulai Januari 2004, digunakan tahun dasar 2002. IHK dihitung berdasarkan pola konsumsi hasil SBH di 45 kota tahun 2002 ( 2002 = 100 ) <br> 6. Mulai Juni 2008, digunakan tahun dasar 2007, IHK dihitung berdasarkan pola konsumsi hasil SBH di 66 kota tahun 2007 (2007 = 100) <br> 7. Mulai Tahun 2014, digunakan tahun dasar 2012, IHK dihitung berdasarkan pola konsumsi hasil SBH di 82 kota tahun 2012 (2012 = 100) <br> 8. Mulai Tahun 2020, digunakan tahun dasar 2018, IHK dihitung berdasarkan pola konsumsi hasil SBH di 90 kota tahun 2018 (2018=100) <br> 9. Mulai Tahun 2024, digunakan tahun dasar 2022, IHK dihitung berdasarkan pola konsumsi hasil SBH di 150 Kabupaten/Kota tahun 2022 (2022=100)"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "8 Kabupaten/Kota Inflasi",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Bulukumba"
+      },
+      {
+        "val": 2,
+        "label": "Watampone"
+      },
+      {
+        "val": 3,
+        "label": "Kabupaten Wajo"
+      },
+      {
+        "val": 4,
+        "label": "Kabupaten Sidenreng Rappang"
+      },
+      {
+        "val": 5,
+        "label": "Kabupaten Luwu Timur"
+      },
+      {
+        "val": 6,
+        "label": "Kota Makassar"
+      },
+      {
+        "val": 7,
+        "label": "Kota Parepare"
+      },
+      {
+        "val": 8,
+        "label": "Kota Palopo"
+      },
+      {
+        "val": 9,
+        "label": "Provinsi Sulawesi Selatan"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 121,
+        "label": "2021"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 64,
+        "label": "Januari"
+      },
+      {
+        "val": 65,
+        "label": "Februari"
+      },
+      {
+        "val": 66,
+        "label": "Maret"
+      },
+      {
+        "val": 67,
+        "label": "April"
+      },
+      {
+        "val": 68,
+        "label": "Mei"
+      },
+      {
+        "val": 69,
+        "label": "Juni"
+      },
+      {
+        "val": 70,
+        "label": "Juli"
+      },
+      {
+        "val": 71,
+        "label": "Agustus"
+      },
+      {
+        "val": 72,
+        "label": "September"
+      },
+      {
+        "val": 73,
+        "label": "Oktober"
+      },
+      {
+        "val": 74,
+        "label": "November"
+      },
+      {
+        "val": 75,
+        "label": "Desember"
+      }
+    ],
+    "datacontent": {
+      "1261012164": 0.07,
+      "1261012165": 0.24,
+      "1261012166": 0.11,
+      "1261012167": 0.42,
+      "1261012168": 0.4,
+      "1261012169": -0.04,
+      "1261012170": 0.05,
+      "1261012171": -0.18,
+      "1261012172": -0.13,
+      "1261012173": 0.04,
+      "1261012174": 0.45,
+      "1261012175": 0.7,
+      "2261012164": 0.08,
+      "2261012165": 0.53,
+      "2261012166": -0.1,
+      "2261012167": 0.79,
+      "2261012168": 0.35,
+      "2261012169": 0.09,
+      "2261012170": -0.12,
+      "2261012171": -0.27,
+      "2261012172": -0.07,
+      "2261012173": -0.2,
+      "2261012174": 0.09,
+      "2261012175": 1.08,
+      "6261012164": 0.31,
+      "6261012165": 0.34,
+      "6261012166": 0.44,
+      "6261012167": 0.24,
+      "6261012168": 0.26,
+      "6261012169": -0.31,
+      "6261012170": 0.07,
+      "6261012171": -0.34,
+      "6261012172": -0.14,
+      "6261012173": 0.07,
+      "6261012174": 0.38,
+      "6261012175": 0.92,
+      "7261012164": 0.27,
+      "7261012165": 0.31,
+      "7261012166": 0.1,
+      "7261012167": 0.92,
+      "7261012168": 0.87,
+      "7261012169": -0.04,
+      "7261012170": 0.26,
+      "7261012171": -0.21,
+      "7261012172": -0.31,
+      "7261012173": -0.04,
+      "7261012174": 0.74,
+      "7261012175": 1.14,
+      "8261012164": 0.26,
+      "8261012165": 0.11,
+      "8261012166": -0.01,
+      "8261012167": 0.41,
+      "8261012168": 1,
+      "8261012169": -0.05,
+      "8261012170": 0.58,
+      "8261012171": -0.06,
+      "8261012172": -0.13,
+      "8261012173": -0.06,
+      "8261012174": 0.22,
+      "8261012175": 0.65,
+      "9261012164": 0.29,
+      "9261012165": 0.33,
+      "9261012166": 0.36,
+      "9261012167": 0.33,
+      "9261012168": 0.34,
+      "9261012169": -0.25,
+      "9261012170": 0.09,
+      "9261012171": -0.31,
+      "9261012172": -0.14,
+      "9261012173": 0.04,
+      "9261012174": 0.37,
+      "9261012175": 0.92
+    },
+    "related": []
+  }
+}

@@ -1,4 +1,5 @@
 domain_code,domain_name,year,variable,variable_name,value
+7302,Kab. Bulukumba,2025,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),100
 7303,Kab. Bantaeng,2021,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),11829
 7303,Kab. Bantaeng,2022,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),12133
 7303,Kab. Bantaeng,2023,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),12304
@@ -12,6 +13,10 @@ domain_code,domain_name,year,variable,variable_name,value
 7308,Kab. Bone,2023,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),20.56
 7308,Kab. Bone,2024,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),19.47
 7308,Kab. Bone,2025,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),15.45
+7309,Kab. Maros,2022,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),100
+7309,Kab. Maros,2023,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),100
+7309,Kab. Maros,2024,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),100
+7309,Kab. Maros,2025,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),100
 7310,Kab. Pangkajene dan Kepulauan,2021,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),11.02
 7310,Kab. Pangkajene dan Kepulauan,2022,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),11.28
 7318,Kab. Tana Toraja,2021,pdrb_total,PDRB Atas Dasar Harga Berlaku (Miliar Rupiah),164

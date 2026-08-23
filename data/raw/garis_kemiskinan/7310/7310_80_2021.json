@@ -1,0 +1,60 @@
+{
+  "fetch_metadata": {
+    "domain": "7310",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 80,
+    "fetched_at": "2026-08-23T09:01:28.528985+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-01-21 09:27:04",
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 80,
+        "label": "Garis Kemiskinan",
+        "unit": "",
+        "subj": "Kemiskinan",
+        "def": "",
+        "decimal": 0,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Garis Kemiskinan",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Garis Kemiskinan"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 121,
+        "label": "2021"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "18001210": 351924
+    },
+    "related": []
+  }
+}

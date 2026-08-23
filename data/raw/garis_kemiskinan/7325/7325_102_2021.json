@@ -1,0 +1,60 @@
+{
+  "fetch_metadata": {
+    "domain": "7325",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 102,
+    "fetched_at": "2026-08-23T09:02:51.903069+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2022-03-09 10:34:45",
+    "subject": [
+      {
+        "val": 523,
+        "label": "Konsumsi dan Pendapatan"
+      }
+    ],
+    "var": [
+      {
+        "val": 102,
+        "label": "Garis Kemiskinan",
+        "unit": "Rp/Kapita/Bulan",
+        "subj": "Kemiskinan",
+        "def": "",
+        "decimal": 0,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten/Kota",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Luwu Timur"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 121,
+        "label": "2021"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "110201210": 371947
+    },
+    "related": []
+  }
+}

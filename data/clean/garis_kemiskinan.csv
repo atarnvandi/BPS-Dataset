@@ -1,18 +1,54 @@
 domain_code,domain_name,year,variable,variable_name,value
 7301,Kab. Kepulauan Selayar,2021,garis_kemiskinan,Garis Kemiskinan,20883.8
+7301,Kab. Kepulauan Selayar,2021,garis_kemiskinan,Garis Kemiskinan,406732
+7301,Kab. Kepulauan Selayar,2022,garis_kemiskinan,Garis Kemiskinan,430976
 7301,Kab. Kepulauan Selayar,2022,garis_kemiskinan,Garis Kemiskinan,21223.4
+7301,Kab. Kepulauan Selayar,2023,garis_kemiskinan,Garis Kemiskinan,453432
+7302,Kab. Bulukumba,2021,garis_kemiskinan,Garis Kemiskinan,369022
+7303,Kab. Bantaeng,2021,garis_kemiskinan,Garis Kemiskinan,363342
+7303,Kab. Bantaeng,2022,garis_kemiskinan,Garis Kemiskinan,394116
+7303,Kab. Bantaeng,2023,garis_kemiskinan,Garis Kemiskinan,419667
+7303,Kab. Bantaeng,2024,garis_kemiskinan,Garis Kemiskinan,434664
+7303,Kab. Bantaeng,2025,garis_kemiskinan,Garis Kemiskinan,453167
 7304,Kab. Jeneponto,2023,garis_kemiskinan,Garis Kemiskinan,70.04
 7304,Kab. Jeneponto,2024,garis_kemiskinan,Garis Kemiskinan,70.47
 7305,Kab. Takalar,2025,garis_kemiskinan,Garis Kemiskinan,18479
+7307,Kab. Sinjai,2021,garis_kemiskinan,Garis Kemiskinan,352490
 7307,Kab. Sinjai,2021,garis_kemiskinan,Garis Kemiskinan,8.84
 7307,Kab. Sinjai,2022,garis_kemiskinan,Garis Kemiskinan,8.8
+7307,Kab. Sinjai,2022,garis_kemiskinan,Garis Kemiskinan,374226
+7307,Kab. Sinjai,2023,garis_kemiskinan,Garis Kemiskinan,397562
 7307,Kab. Sinjai,2023,garis_kemiskinan,Garis Kemiskinan,8.55
+7310,Kab. Pangkajene dan Kepulauan,2021,garis_kemiskinan,Garis Kemiskinan,351924
+7310,Kab. Pangkajene dan Kepulauan,2022,garis_kemiskinan,Garis Kemiskinan,368150
+7310,Kab. Pangkajene dan Kepulauan,2023,garis_kemiskinan,Garis Kemiskinan,400702
+7310,Kab. Pangkajene dan Kepulauan,2024,garis_kemiskinan,Garis Kemiskinan,417396
+7310,Kab. Pangkajene dan Kepulauan,2025,garis_kemiskinan,Garis Kemiskinan,426792
+7311,Kab. Barru,2021,garis_kemiskinan,Garis Kemiskinan,360177
+7311,Kab. Barru,2022,garis_kemiskinan,Garis Kemiskinan,380513
+7311,Kab. Barru,2023,garis_kemiskinan,Garis Kemiskinan,408244
 7312,Kab. Soppeng,2021,garis_kemiskinan,Garis Kemiskinan,76.63
+7313,Kab. Wajo,2023,garis_kemiskinan,Garis Kemiskinan,402351
+7315,Kab. Pinrang,2021,garis_kemiskinan,Garis Kemiskinan,338731
+7315,Kab. Pinrang,2022,garis_kemiskinan,Garis Kemiskinan,345892
+7315,Kab. Pinrang,2023,garis_kemiskinan,Garis Kemiskinan,400091
+7315,Kab. Pinrang,2024,garis_kemiskinan,Garis Kemiskinan,414198
+7316,Kab. Enrekang,2021,garis_kemiskinan,Garis Kemiskinan,352147
+7316,Kab. Enrekang,2022,garis_kemiskinan,Garis Kemiskinan,371669
+7316,Kab. Enrekang,2023,garis_kemiskinan,Garis Kemiskinan,408198
+7316,Kab. Enrekang,2024,garis_kemiskinan,Garis Kemiskinan,427556
+7316,Kab. Enrekang,2025,garis_kemiskinan,Garis Kemiskinan,451580
+7318,Kab. Tana Toraja,2021,garis_kemiskinan,Garis Kemiskinan,350220
 7318,Kab. Tana Toraja,2021,garis_kemiskinan,Garis Kemiskinan,69.78
 7318,Kab. Tana Toraja,2022,garis_kemiskinan,Garis Kemiskinan,70.16
+7318,Kab. Tana Toraja,2022,garis_kemiskinan,Garis Kemiskinan,366753
 7318,Kab. Tana Toraja,2023,garis_kemiskinan,Garis Kemiskinan,71.01
+7318,Kab. Tana Toraja,2023,garis_kemiskinan,Garis Kemiskinan,399202
+7318,Kab. Tana Toraja,2024,garis_kemiskinan,Garis Kemiskinan,418308
 7318,Kab. Tana Toraja,2024,garis_kemiskinan,Garis Kemiskinan,71.94
+7318,Kab. Tana Toraja,2025,garis_kemiskinan,Garis Kemiskinan,435955
 7318,Kab. Tana Toraja,2025,garis_kemiskinan,Garis Kemiskinan,72.77
+7325,Kab. Luwu Timur,2021,garis_kemiskinan,Garis Kemiskinan,371947
 7325,Kab. Luwu Timur,2021,garis_kemiskinan,Garis Kemiskinan,6.85
 7325,Kab. Luwu Timur,2022,garis_kemiskinan,Garis Kemiskinan,8.23
 7325,Kab. Luwu Timur,2023,garis_kemiskinan,Garis Kemiskinan,11.88
@@ -27,3 +63,6 @@ domain_code,domain_name,year,variable,variable_name,value
 7372,Kota Parepare,2023,garis_kemiskinan,Garis Kemiskinan,100
 7372,Kota Parepare,2024,garis_kemiskinan,Garis Kemiskinan,100
 7372,Kota Parepare,2025,garis_kemiskinan,Garis Kemiskinan,100
+7373,Kota Palopo,2021,garis_kemiskinan,Garis Kemiskinan,383007
+7373,Kota Palopo,2022,garis_kemiskinan,Garis Kemiskinan,403144
+7373,Kota Palopo,2023,garis_kemiskinan,Garis Kemiskinan,442276
