@@ -1,0 +1,60 @@
+{
+  "fetch_metadata": {
+    "domain": "7314",
+    "variable_key": "tpt",
+    "var_id": 159,
+    "fetched_at": "2026-08-23T09:38:22.713686+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2024-02-15 09:16:45",
+    "subject": [
+      {
+        "val": 520,
+        "label": "Tenaga Kerja"
+      }
+    ],
+    "var": [
+      {
+        "val": 159,
+        "label": "Tingkat Pengangguran Terbuka (TPT)",
+        "unit": "",
+        "subj": "Tenaga Kerja",
+        "def": "",
+        "decimal": 2,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Nama Kabupaten/Kota",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Kabupaten Sidenreng Rappang"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 123,
+        "label": "2023"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 74,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "1159012374": 3.4
+    },
+    "related": []
+  }
+}

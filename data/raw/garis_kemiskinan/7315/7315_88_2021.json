@@ -1,0 +1,60 @@
+{
+  "fetch_metadata": {
+    "domain": "7315",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 88,
+    "fetched_at": "2026-08-23T09:41:55.822777+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-04-11 12:51:40",
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 88,
+        "label": "Garis Kemiskinan",
+        "unit": "Rupiah",
+        "subj": "Kemiskinan dan Ketimpangan",
+        "def": "",
+        "decimal": null,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten Pinrang",
+    "vervar": [
+      {
+        "val": 7315,
+        "label": "Kabupaten Pinrang"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 121,
+        "label": "2021"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "73158801210": 338731
+    },
+    "related": []
+  }
+}

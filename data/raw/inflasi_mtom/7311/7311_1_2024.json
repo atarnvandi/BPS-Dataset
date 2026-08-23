@@ -1,0 +1,117 @@
+{
+  "fetch_metadata": {
+    "domain": "7311",
+    "variable_key": "inflasi_mtom",
+    "var_id": 1,
+    "fetched_at": "2026-08-23T09:34:35.355137+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2024-11-05 01:01:07",
+    "subject": [
+      {
+        "val": 536,
+        "label": "Harga-Harga"
+      }
+    ],
+    "var": [
+      {
+        "val": 1,
+        "label": "Inflasi",
+        "unit": "Persen",
+        "subj": "Inflasi",
+        "def": "",
+        "decimal": null,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Wilayah Inflasi",
+    "vervar": [
+      {
+        "val": 7311,
+        "label": "Watampone"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 124,
+        "label": "2024"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 1,
+        "label": "Januari"
+      },
+      {
+        "val": 2,
+        "label": "Februari"
+      },
+      {
+        "val": 3,
+        "label": "Maret"
+      },
+      {
+        "val": 4,
+        "label": "April"
+      },
+      {
+        "val": 5,
+        "label": "Mei"
+      },
+      {
+        "val": 6,
+        "label": "Juni"
+      },
+      {
+        "val": 7,
+        "label": "Juli"
+      },
+      {
+        "val": 8,
+        "label": "Agustus"
+      },
+      {
+        "val": 9,
+        "label": "September"
+      },
+      {
+        "val": 10,
+        "label": "Oktober"
+      },
+      {
+        "val": 11,
+        "label": "November"
+      },
+      {
+        "val": 12,
+        "label": "Desember"
+      },
+      {
+        "val": 13,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": {
+      "7311101241": 0.26,
+      "73111012410": 0.02,
+      "7311101242": 0.38,
+      "7311101243": 0.27,
+      "7311101244": 0.51,
+      "7311101245": -0.01,
+      "7311101246": -0.13,
+      "7311101247": -0.28,
+      "7311101248": -0.28,
+      "7311101249": -0.21
+    },
+    "related": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "fetch_metadata": {
+    "domain": "7309",
+    "variable_key": "inflasi_mtom",
+    "var_id": 159,
+    "fetched_at": "2026-08-23T09:34:19.658662+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-05-05 06:55:07",
+    "subject": [
+      {
+        "val": 536,
+        "label": "Harga-Harga"
+      }
+    ],
+    "var": [
+      {
+        "val": 159,
+        "label": "Inflasi Bulanan (M-to-M) 8 Kabupaten Kota (2022=100) di Provinsi Sulawesi Selatan",
+        "unit": "Persen",
+        "subj": "Inflasi",
+        "def": "",
+        "decimal": 2,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "8 Kota Inflasi",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Bulukumba"
+      },
+      {
+        "val": 2,
+        "label": "Watampone"
+      },
+      {
+        "val": 3,
+        "label": "Kabupaten Wajo"
+      },
+      {
+        "val": 4,
+        "label": "Kabupaten Sidenreng Rappang"
+      },
+      {
+        "val": 5,
+        "label": "Kabupaten Luwu Timur"
+      },
+      {
+        "val": 6,
+        "label": "Kota Makassar"
+      },
+      {
+        "val": 7,
+        "label": "Kota Pare-Pare"
+      },
+      {
+        "val": 8,
+        "label": "Kota Palopo"
+      },
+      {
+        "val": 9,
+        "label": "Provinsi Sulawesi Selatan"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 1,
+        "label": "Januari"
+      },
+      {
+        "val": 2,
+        "label": "Februari"
+      },
+      {
+        "val": 3,
+        "label": "Maret"
+      },
+      {
+        "val": 4,
+        "label": "April"
+      },
+      {
+        "val": 5,
+        "label": "Mei"
+      },
+      {
+        "val": 6,
+        "label": "Juni"
+      },
+      {
+        "val": 7,
+        "label": "Juli"
+      },
+      {
+        "val": 8,
+        "label": "Agustus"
+      },
+      {
+        "val": 9,
+        "label": "September"
+      },
+      {
+        "val": 10,
+        "label": "Oktober"
+      },
+      {
+        "val": 11,
+        "label": "November"
+      },
+      {
+        "val": 12,
+        "label": "Desember"
+      },
+      {
+        "val": 13,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": {
+      "115901251": -1.06,
+      "115901252": -0.64,
+      "215901251": -0.56,
+      "215901252": -0.98,
+      "315901251": -0.64,
+      "315901252": -0.29,
+      "415901251": -0.74,
+      "415901252": -0.84,
+      "515901251": -0.61,
+      "515901252": -0.86,
+      "615901251": -0.72,
+      "615901252": -1.07,
+      "715901251": -0.68,
+      "715901252": -0.22,
+      "815901251": -1.38,
+      "815901252": -0.48,
+      "915901251": -0.75,
+      "915901252": -0.89
+    },
+    "related": []
+  }
+}

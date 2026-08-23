@@ -1,0 +1,107 @@
+{
+  "fetch_metadata": {
+    "domain": "7309",
+    "variable_key": "pdrb_total",
+    "var_id": 136,
+    "fetched_at": "2026-08-23T09:30:55.472272+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-03-05 07:26:48",
+    "subject": [
+      {
+        "val": 531,
+        "label": "Neraca Ekonomi"
+      }
+    ],
+    "var": [
+      {
+        "val": 136,
+        "label": "Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Atas Dasar Harga Berlaku Kabupaten Pangkajene dan Kepulauan",
+        "unit": "Persen",
+        "subj": "Produk Domestik Regional Bruto",
+        "def": "<b>Cakupan Lapangan Usaha</b>\n\n<br/>\nSektor Primer: <br/>\nA. Pertanian, Kehutanan, dan Perikanan<br/>\nB. Pertambangan dan Penggalian<br/>\n<br/>\nSektor Sekunder:<br/>\nC. Industri Pengolahan<br/>\nD. Pengadaan Listrik dan Gas<br/>\nE. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang<br/>\nF. Konstruksi<br/>\n<br/>\nSektor Tersier:<br/>\nG. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor<br/>\nH. Transportasi dan Pergudangan<br/> \t\nI. Penyediaan Akomodasi dan Makan Minum<br/>\nJ. Informasi dan Komunikasi<br/>\nK. Jasa Keuangan dan Asuransi<br/>\nL. Real Estat<br/>\nM,N. Jasa Perusahaan<br/>\nO. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib<br/>\nP. Jasa Pendidikan<br/>\nQ. Jasa Kesehatan dan Kegiatan Sosial<br/>\nR,S,T,U. Jasa Lainnya<br/>\n",
+        "decimal": 2,
+        "note": "2023: *Angka Sementara<br/>\n2024: **Angka Sangat Sementara<br/>\n2025: ***Angka Sangat-sangat Sementara<br/>\n<br/>\n"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kategori Lapangan Usaha PDRB",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Sektor Primer"
+      },
+      {
+        "val": 2,
+        "label": "Sektor Sekunder"
+      },
+      {
+        "val": 3,
+        "label": "Sektor Tersier"
+      },
+      {
+        "val": 4,
+        "label": "PDRB"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 31,
+        "label": "Triwulan I"
+      },
+      {
+        "val": 32,
+        "label": "Triwulan II"
+      },
+      {
+        "val": 33,
+        "label": "Triwulan III"
+      },
+      {
+        "val": 34,
+        "label": "Triwulan IV"
+      },
+      {
+        "val": 35,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": {
+      "1136012531": 31.47,
+      "1136012532": 32.66,
+      "1136012533": 31.74,
+      "1136012534": 29.23,
+      "1136012535": 31.27,
+      "2136012531": 48.74,
+      "2136012532": 47.49,
+      "2136012533": 48.39,
+      "2136012534": 51.38,
+      "2136012535": 49.01,
+      "3136012531": 19.78,
+      "3136012532": 19.85,
+      "3136012533": 19.87,
+      "3136012534": 19.39,
+      "3136012535": 19.72,
+      "4136012531": 100,
+      "4136012532": 100,
+      "4136012533": 100,
+      "4136012534": 100,
+      "4136012535": 100
+    },
+    "related": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "fetch_metadata": {
+    "domain": "7307",
+    "variable_key": "tpt",
+    "var_id": 266,
+    "fetched_at": "2026-08-23T09:37:26.048535+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 520,
+        "label": "Tenaga Kerja"
+      }
+    ],
+    "var": [
+      {
+        "val": 266,
+        "label": "Tingkat Pengangguran Terbuka (Agustus)",
+        "unit": "Tidak Ada Satuan",
+        "subj": "Tenaga Kerja",
+        "def": "",
+        "decimal": 2,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten/Kota",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Sinjai"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": [],
+    "related": []
+  }
+}

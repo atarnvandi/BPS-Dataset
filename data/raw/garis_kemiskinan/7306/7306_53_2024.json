@@ -1,0 +1,58 @@
+{
+  "fetch_metadata": {
+    "domain": "7306",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 53,
+    "fetched_at": "2026-08-23T09:40:43.380660+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 53,
+        "label": "Garis Kemiskinan",
+        "unit": "Rupiah",
+        "subj": "Kemiskinan",
+        "def": "",
+        "decimal": 0,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten",
+    "vervar": [
+      {
+        "val": 7306,
+        "label": "Kabupaten Gowa"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 124,
+        "label": "2024"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": [],
+    "related": []
+  }
+}

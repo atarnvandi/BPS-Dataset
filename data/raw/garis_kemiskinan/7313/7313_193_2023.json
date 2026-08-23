@@ -1,0 +1,147 @@
+{
+  "fetch_metadata": {
+    "domain": "7313",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 193,
+    "fetched_at": "2026-08-23T09:41:42.102224+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2024-07-23 01:19:56",
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 193,
+        "label": "Garis Kemiskinan (Rp/kapita/bulan)",
+        "unit": "",
+        "subj": "Kemiskinan",
+        "def": "Garis Kemiskinan merupakan representasi dari jumlah rupiah minimum yang dibutuhkan untuk memenuhi kebutuhan pokok minimum makanan yang setara dengan 2100 kilokalori per kapita per hari dan kebutuhan pokok bukan makanan.",
+        "decimal": 2,
+        "note": "Garis kemiskinan menunjukkan jumlah rupiah minimum yang dibutuhkan untuk memenuhi kebutuhan pokok minimum makanan yang setara dengan 2100 kilokalori per kapita per hari dan kebutuhan pokok bukan makanan. Penduduk yang memiliki rata-rata pengeluaran konsumsi per kapita per bulan di bawah garis kemiskinan dikategorikan sebagai penduduk miskin."
+      }
+    ],
+    "turvar": [
+      {
+        "val": 132,
+        "label": "Garis Kemiskinan (rupiah/kapita/bulan)"
+      },
+      {
+        "val": 133,
+        "label": "Jumlah Penduduk Miskin (ribu)"
+      },
+      {
+        "val": 134,
+        "label": "Persentase Penduduk  Miskin"
+      }
+    ],
+    "labelvervar": "tahun",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "2012"
+      },
+      {
+        "val": 2,
+        "label": "2013"
+      },
+      {
+        "val": 3,
+        "label": "2014"
+      },
+      {
+        "val": 4,
+        "label": "2015"
+      },
+      {
+        "val": 5,
+        "label": "2016"
+      },
+      {
+        "val": 6,
+        "label": "2017"
+      },
+      {
+        "val": 7,
+        "label": "2018"
+      },
+      {
+        "val": 8,
+        "label": "2019"
+      },
+      {
+        "val": 9,
+        "label": "2020"
+      },
+      {
+        "val": 10,
+        "label": "2021"
+      },
+      {
+        "val": 11,
+        "label": "2022"
+      },
+      {
+        "val": 12,
+        "label": "2023"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 123,
+        "label": "2023"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "101931321230": 361181,
+      "101931331230": 26.22,
+      "101931341230": 6.46,
+      "111931321230": 375022,
+      "111931331230": 26.75,
+      "111931341230": 6.57,
+      "11931321230": 228786,
+      "11931331230": 30.5,
+      "11931341230": 7.83,
+      "121931321230": 402351,
+      "121931331230": 27.54,
+      "121931341230": 6.73,
+      "21931321230": 238104,
+      "21931331230": 31.9,
+      "21931341230": 8.17,
+      "31931321230": 244212,
+      "31931331230": 30.34,
+      "31931341230": 7.74,
+      "41931321230": 253164,
+      "41931331230": 30.08,
+      "41931341230": 7.66,
+      "51931321230": 258821,
+      "51931331230": 29.46,
+      "51931341230": 7.47,
+      "61931321230": 264376,
+      "61931331230": 29.19,
+      "61931341230": 7.38,
+      "71931321230": 297121,
+      "71931331230": 29.73,
+      "71931341230": 7.5,
+      "81931321230": 311017,
+      "81931331230": 27.48,
+      "81931341230": 6.91,
+      "91931321230": 350765,
+      "91931331230": 27.69,
+      "91931341230": 6.95
+    },
+    "related": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "fetch_metadata": {
+    "domain": "7304",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 64,
+    "fetched_at": "2026-08-23T09:40:22.296835+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 564,
+        "label": "Gender dan Kelompok Populasi Khusus"
+      }
+    ],
+    "var": [
+      {
+        "val": 64,
+        "label": "Indeks Pembangunan Manusia (IPM) menurut Jenis Kelamin (menggunakan UHH hasil SP2010)",
+        "unit": "Persen",
+        "subj": "Indeks Pembangunan Manusia",
+        "def": "",
+        "decimal": 2,
+        "note": ""
+      }
+    ],
+    "turvar": [
+      {
+        "val": 54,
+        "label": "Laki-laki"
+      },
+      {
+        "val": 55,
+        "label": "Perempuan"
+      }
+    ],
+    "labelvervar": "Kabupaten",
+    "vervar": [
+      {
+        "val": 7304,
+        "label": "Jeneponto"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 122,
+        "label": "2022"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": [],
+    "related": []
+  }
+}

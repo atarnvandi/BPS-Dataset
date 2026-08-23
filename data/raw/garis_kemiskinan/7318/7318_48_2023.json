@@ -1,0 +1,60 @@
+{
+  "fetch_metadata": {
+    "domain": "7318",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 48,
+    "fetched_at": "2026-08-23T09:42:25.090839+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-09-16 12:33:28",
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 48,
+        "label": "Garis Kemiskinan",
+        "unit": "Rupiah/Kapita/Bulan",
+        "subj": "Kemiskinan",
+        "def": "",
+        "decimal": 0,
+        "note": "Sumber: BPS, Survei Sosial Ekonomi Nasional Maret"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Kabupaten",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Tana Toraja"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 123,
+        "label": "2023"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "14801230": 399202
+    },
+    "related": []
+  }
+}

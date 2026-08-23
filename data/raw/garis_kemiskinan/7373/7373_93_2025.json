@@ -1,0 +1,74 @@
+{
+  "fetch_metadata": {
+    "domain": "7373",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 93,
+    "fetched_at": "2026-08-23T09:43:20.102601+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 93,
+        "label": "Jumlah Penduduk Miskin, Persentase Penduduk Miskin, Indeks Kedalaman Kemiskinan, Indeks Keparahan Kemiskinan, dan Garis Kemiskinan",
+        "unit": "Tidak Ada Satuan",
+        "subj": "Kemiskinan",
+        "def": "",
+        "decimal": 2,
+        "note": "Sumber : BPS, Data dan Informasi Kemiskinan Kabupaten/ Kota 2010 - 2019"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Indikator Kemiskinan",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Jumlah Penduduk Miskin (ribuan jiwa)"
+      },
+      {
+        "val": 2,
+        "label": "Persentase Penduduk Miskin (persen)"
+      },
+      {
+        "val": 3,
+        "label": "Indeks Kedalaman Kemiskinan"
+      },
+      {
+        "val": 4,
+        "label": "Indeks Keparahan Kemiskinan"
+      },
+      {
+        "val": 5,
+        "label": "Garis Kemiskinan (Rupiah/kapita/bulan)"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": [],
+    "related": []
+  }
+}

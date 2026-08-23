@@ -1,0 +1,110 @@
+{
+  "fetch_metadata": {
+    "domain": "7313",
+    "variable_key": "garis_kemiskinan",
+    "var_id": 193,
+    "fetched_at": "2026-08-23T09:41:38.581616+00:00",
+    "pipeline_version": "1.0.0"
+  },
+  "raw_response": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+      {
+        "val": 563,
+        "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+      }
+    ],
+    "var": [
+      {
+        "val": 193,
+        "label": "Garis Kemiskinan (Rp/kapita/bulan)",
+        "unit": "Tidak Ada Satuan",
+        "subj": "Kemiskinan",
+        "def": "Garis Kemiskinan merupakan representasi dari jumlah rupiah minimum yang dibutuhkan untuk memenuhi kebutuhan pokok minimum makanan yang setara dengan 2100 kilokalori per kapita per hari dan kebutuhan pokok bukan makanan.",
+        "decimal": 2,
+        "note": "Garis kemiskinan menunjukkan jumlah rupiah minimum yang dibutuhkan untuk memenuhi kebutuhan pokok minimum makanan yang setara dengan 2100 kilokalori per kapita per hari dan kebutuhan pokok bukan makanan. Penduduk yang memiliki rata-rata pengeluaran konsumsi per kapita per bulan di bawah garis kemiskinan dikategorikan sebagai penduduk miskin."
+      }
+    ],
+    "turvar": [
+      {
+        "val": 132,
+        "label": "Garis Kemiskinan (rupiah/kapita/bulan)"
+      },
+      {
+        "val": 133,
+        "label": "Jumlah Penduduk Miskin (ribu)"
+      },
+      {
+        "val": 134,
+        "label": "Persentase Penduduk  Miskin"
+      }
+    ],
+    "labelvervar": "tahun",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "2012"
+      },
+      {
+        "val": 2,
+        "label": "2013"
+      },
+      {
+        "val": 3,
+        "label": "2014"
+      },
+      {
+        "val": 4,
+        "label": "2015"
+      },
+      {
+        "val": 5,
+        "label": "2016"
+      },
+      {
+        "val": 6,
+        "label": "2017"
+      },
+      {
+        "val": 7,
+        "label": "2018"
+      },
+      {
+        "val": 8,
+        "label": "2019"
+      },
+      {
+        "val": 9,
+        "label": "2020"
+      },
+      {
+        "val": 10,
+        "label": "2021"
+      },
+      {
+        "val": 11,
+        "label": "2022"
+      },
+      {
+        "val": 12,
+        "label": "2023"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 121,
+        "label": "2021"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": [],
+    "related": []
+  }
+}
