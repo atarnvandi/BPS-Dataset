@@ -5,18 +5,7 @@ on:
     # Jalan otomatis setiap tanggal 1 jam 00:00 UTC (07:00 WIB)
     - cron: '0 0 1 * *'
   workflow_dispatch:
-    # Memungkinkan untuk di-trigger manual lewat UI GitHub
     inputs:
-      regenerate_var_map:
-        description: 'Buat ulang mapping var_id per kabupaten (generate_var_map.py)'
-        required: false
-        type: boolean
-        default: false
-      explore_variables:
-        description: 'Export katalog semua variabel BPS ke CSV (explore_variables.py)'
-        required: false
-        type: boolean
-        default: false
       clean_raw_data:
         description: 'Hapus semua data JSON lama sebelum fetch ulang dari awal'
         required: false
@@ -43,20 +32,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: (Opsional) Export Katalog Variabel BPS
-        if: ${{ github.event.inputs.explore_variables == 'true' }}
-        env:
-          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}
-        run: |
-          PYTHONPATH=. python src/explore_variables.py
-
-      - name: (Opsional) Regenerasi Mapping Var ID
-        if: ${{ github.event.inputs.regenerate_var_map == 'true' }}
-        env:
-          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}
-        run: |
-          PYTHONPATH=. python src/generate_var_map.py
 
       - name: (Opsional) Bersihkan Data JSON Lama
         if: ${{ github.event.inputs.clean_raw_data == 'true' }}
