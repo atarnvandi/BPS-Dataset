@@ -1,0 +1,43 @@
+name: Load Data to TiDB
+
+on:
+  # Opsi 1: Otomatis berjalan setiap kali "Fetch BPS Data" selesai
+  workflow_run:
+    workflows: ["Fetch BPS Data"]
+    types:
+      - completed
+      
+  # Opsi 2: Bisa dipicu manual kapan saja
+  workflow_dispatch:
+
+jobs:
+  load-db:
+    runs-on: ubuntu-latest
+    
+    # Hanya jalankan jika fetch berhasil (jika dipicu oleh workflow_run)
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+
+    steps:
+      - name: Cek kode repositori
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Load CSV ke TiDB Serverless
+        env:
+          TIDB_HOST: ${{ secrets.TIDB_HOST }}
+          TIDB_PORT: ${{ secrets.TIDB_PORT }}
+          TIDB_USER: ${{ secrets.TIDB_USER }}
+          TIDB_PASSWORD: ${{ secrets.TIDB_PASSWORD }}
+          TIDB_DB_NAME: ${{ secrets.TIDB_DB_NAME }}
+        run: |
+          PYTHONPATH=. python src/db_loader.py
