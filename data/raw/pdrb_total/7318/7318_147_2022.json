@@ -3,7 +3,7 @@
     "domain": "7318",
     "variable_key": "pdrb_total",
     "var_id": 147,
-    "fetched_at": "2026-09-01T03:45:10.374590+00:00",
+    "fetched_at": "2026-10-01T04:29:26.563520+00:00",
     "pipeline_version": "1.0.0"
   },
   "raw_response": {
@@ -24,7 +24,7 @@
         "subj": "Produk Domestik Regional Bruto (Lapangan Usaha)",
         "def": "",
         "decimal": 2,
-        "note": "2026: Angka Sangat-sangat Sementara <br/> 2025: Angka Sangat Sementara <br/> \n2024: Angka Sementara <br/> "
+        "note": "2026: ***Angka Sangat-sangat Sementara"
       }
     ],
     "turvar": [
