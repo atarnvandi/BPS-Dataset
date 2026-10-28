@@ -12,12 +12,14 @@ Repository ini menyimpan data statistik resmi dari BPS (Badan Pusat Statistik) u
 
 Tabel di bawah ini diupdate secara otomatis oleh GitHub Actions setiap kali proses penarikan data selesai.
 
+<!-- FETCH_LOG_START -->
+
 | Tanggal Fetch | Total Sukses | Total Gagal | Total Skip | Durasi |
 | ------------- | ------------ | ----------- | ---------- | ------ |
-<!-- FETCH_LOG_START -->
 | 2026-10-01 04:50:55 WIB | 480 | 0 | - | 31m 32s |
 | 2026-09-01 03:52:03 WIB | 480 | 0 | - | 9m 16s |
 | 2026-08-23 09:43:20 WIB | 480 | 0 | - | 13m 38s |
 | 2026-08-23 09:03:15 WIB | 480 | 0 | - | 13m 29s |
 | 2026-08-23 07:56:34 WIB | 480 | 0 | - | 13m 10s |
+
 <!-- FETCH_LOG_END -->

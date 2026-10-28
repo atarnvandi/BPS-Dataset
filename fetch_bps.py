@@ -345,11 +345,18 @@ def update_readme_dashboard(stats: PipelineStats):
     
     new_row = f"| {date_str} | {stats.success} | {stats.failed} | - | {duration_str} |\n"
     
-    # Sisipkan di bawah marker START
-    marker = "<!-- FETCH_LOG_START -->\n"
-    if marker in content:
-        content = content.replace(marker, marker + new_row)
-        readme_path.write_text(content, encoding="utf-8")
+    # Sisipkan tepat di bawah baris pemisah tabel (| --- |) setelah marker START.
+    # Marker harus berada di luar tabel, kalau tidak GitHub tidak me-render tabelnya.
+    marker = "<!-- FETCH_LOG_START -->"
+    start = content.find(marker)
+    if start == -1:
+        return
+    sep = content.find("| ---", start)
+    if sep == -1:
+        return
+    insert_at = content.index("\n", sep) + 1
+    content = content[:insert_at] + new_row + content[insert_at:]
+    readme_path.write_text(content, encoding="utf-8")
 
 def main():
     """Entry point."""
