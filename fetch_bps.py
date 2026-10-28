@@ -28,6 +28,7 @@ import time
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from config import (
     BPS_VARIABLES,
@@ -334,7 +335,8 @@ def update_readme_dashboard(stats: PipelineStats):
     content = readme_path.read_text(encoding="utf-8")
     
     # Format baris baru
-    date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S WIB")
+    # Runner GitHub Actions memakai UTC, jadi zona waktu harus eksplisit.
+    date_str = datetime.now(ZoneInfo("Asia/Jakarta")).strftime("%Y-%m-%d %H:%M:%S WIB")
     minutes = int(stats.elapsed_seconds // 60)
     seconds = int(stats.elapsed_seconds % 60)
     duration_str = f"{minutes}m {seconds}s"
